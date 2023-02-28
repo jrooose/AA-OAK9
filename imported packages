@@ -4,7 +4,7 @@
 # Group 5: Anisha Kumar, Jasmine Rose Muolic, Blanca Osorio, Marc Ramirez, Emely Rivera 
 # Automattic Assessment of Osteoarthritis in Canine Elbows
 
-import sklearn
+import scikit- image
 import cv2
 import pydicom as dicom
 import numpy as np
